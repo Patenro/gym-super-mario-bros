@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from gym_super_mario_bros import SuperMarioBrosEnv
 import tqdm
 env = SuperMarioBrosEnv()
